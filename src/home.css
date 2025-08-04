@@ -41,7 +41,7 @@ body{
 }
 .home-preview{
     overflow: hidden;
-    background-image: url('assets\gbu.jpg');
+    background-image: url('assets/gbu.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
