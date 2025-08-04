@@ -1,6 +1,6 @@
 import './home.css'
 import logo from './assets/netflix-logo.png'
-import gbu from './assets/Good-Bad-Ugly-poster.jpg'
+import gbu from './assets/gbu.jpg'
 import github from './assets/IMG_20250726_193529.jpg'
 import linkedin from './assets/images (1).png'
 import mail from './assets/google-mail-gmail-icon-logo-symbol-free-png.webp'
